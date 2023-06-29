@@ -16,7 +16,7 @@ This e-commerce frontend alication project is ready for most basic core tasks li
 ### Installing
 
 ```
-git clone https://github.com/mhertovm/Frontend-e-commerce_with_React_and_Node.git
+git clone https://github.com/mhertovm/Full-stack-E-commerce_with_React.js_and_Node.js.git
 cd .. Frontend-e-commerce_with_React_and_Node
 npm install
 ```
@@ -49,7 +49,6 @@ This e-commerce backend alication project is ready for most basic core tasks lik
 ### Installing
 
 ```
-git clone https://github.com/mhertovm/Backend-e-commerce_with_React_and_Node.git
 cd .. Backend-e-commerce_with_React_and_Node
 npm install
 ```
